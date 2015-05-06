@@ -1,0 +1,17 @@
+# Copyright (C) 2011, 2015 Asher Blum
+
+http://www.wildsparx.com/fastcounters/
+
+fastcounters - fast, persistent, shareable counters
+
+LICENSE: GNU GPL
+
+INSTALL:
+make
+make test
+sudo make install
+
+USAGE:
+Type 'fastcounters' with no args to see a help message.
+See example1.c for coding usage.
+
